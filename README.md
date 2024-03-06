@@ -23,7 +23,7 @@ Here are some of the current features that Rent Right has:
 - [x] Responsive design (Tailwind)
 - [x] Custom 404 page
 
-Property Pulse uses the following technologies:
+Rent Right uses the following technologies:
 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
