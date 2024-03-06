@@ -38,6 +38,7 @@ const Properties = () => {
   const handlePageChange = (newPage) => {
     setPage(newPage);
   };
+  console.log(properties);
 
   return loading ? (
     <Spinner />
